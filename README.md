@@ -12,3 +12,6 @@ Add caching, make the software faster and also headless browwser so as not to ke
 market 2 = goalscorers
 market 2 version 2
 pelaajakohteet --> goalscorers --> tekee maalin ottelussa
+
+
+market1V1 = A player to be awarded yellow or red card
