@@ -9,3 +9,6 @@ that is if time is less than 24hrs, then you grab those teams: otherwise,  ignor
 
 Add caching, make the software faster and also headless browwser so as not to keep rendering.
 
+market 2 = goalscorers
+market 2 version 2
+pelaajakohteet --> goalscorers --> tekee maalin ottelussa
